@@ -1,0 +1,53 @@
+[
+    {
+     "id" : 1,
+     "dni": 12345678,
+     "nombre" : "Lucas",
+     "apellido" : "Gomez",
+     "edad" : 21,
+     "peso" : 83,
+     "estatura" : 1.83
+
+    },
+	{
+     "id" : 2,
+     "dni": 23345678,
+     "nombre" : "Carlos",
+     "apellido" : "Enriquez",
+     "edad" : 20,
+     "peso" : 75,
+     "estatura" : 1.75
+
+    },
+	{
+     "id" : 3,
+     "dni": 32665448,
+     "nombre" : "Esteban",
+     "apellido" : "Liniers",
+     "edad" : 22,
+     "peso" : 76,
+     "estatura" : 1.72
+
+    },
+	{
+     "id" : 4,
+     "dni": 11000993,
+     "nombre" : "Ragnar",
+     "apellido" : "Lothbrok",
+     "edad" : 23,
+     "peso" : 95,
+     "estatura" : 1.90
+
+    },
+	{
+     "id" : 5,
+     "dni": 12345678,
+     "nombre" : "Floki",
+     "apellido" : "Boat Builder",
+     "edad" : 23,
+     "peso" : 82,
+     "estatura" : 1.93
+
+    }
+
+]
